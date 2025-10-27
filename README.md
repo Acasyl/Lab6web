@@ -11,7 +11,7 @@
 
 Brand Bar (Header Atas): Bagian paling atas yang berisi judul utama "Layout Sederhana".
 
-Navbar (Menu Navigasi): Garis menu horizontal berwarna biru kustom (.navblue) yang berisi tombol-tombol utama seperti Home, Artikel, About, dan Kontak.
+Navbar (Menu Navigasi): Garis menu horizontal berwarna biru kustom` (.navblue) `yang berisi tombol-tombol utama seperti Home, Artikel, About, dan Kontak.
 
 Hero Section (Area Sambutan): Bagian besar di bawah menu yang menyambut pengunjung ("Hello syalsha!") dan berisi deskripsi singkat serta tombol besar ` "Learn more ".` 
 
@@ -31,7 +31,7 @@ Skrip (Fungsi): Di bagian akhir, halaman memuat jQuery dan Bootstrap JS (untuk f
 
 
 2. ` bootstrap.min.css`
-Warna Dasar,Mengubah latar belakang halaman menjadi abu-abu sangat terang/off-white `(#f9f9fb)` dan membuat teks berwarna abu-abu gelap (#444).
+Warna Dasar,Mengubah latar belakang halaman menjadi abu-abu sangat terang/off-white `(#f9f9fb)` dan membuat teks berwarna abu-abu gelap` (#444).`
 
 Navbar` (.navblue)`	Memberi warna biru lembut terang` (#94b9e2)` pada menu navigasi. Saat menu disentuh (hover) atau aktif, warnanya menjadi biru lembut lebih gelap` (#6a9ac9).`
 <br><br>
@@ -58,6 +58,5 @@ Alih-alih pergi ke link baru, ia akan memunculkan kotak alert `(pop-up).`
 Pop-up tersebut akan menampilkan pesan "Detail item:" diikuti dengan judul` (<h5>) `dari lingkaran ikon yang berada tepat di atas tombol tersebut. Ini hanya sebuah demonstrasi fungsi.
 
 
-<img width="1048" height="886" alt="Cuplikan layar 2025-10-27 122227" src="https://github.com/user-attachments/assets/3551f914-ace4-463f-984c-2184e0889ed7" />
-
+<img width="1027" height="875" alt="Cuplikan layar 2025-10-27 122702" src="https://github.com/user-attachments/assets/985e4163-8804-4e54-914b-be49b92be611" />
 
